@@ -3,6 +3,10 @@ phonegap-InAppPurchaseARC
 
 iOS InAppPurchase plugin for PhoneGap ARC project (Tested on Phonegap version 2.1)
 
+This plugin is ARC version of [**InAppPurchaseManager plugin of usmart**](https://github.com/usmart/InAppPurchaseManager-EXAMPLE)
+
+For more informations, [check here](http://ngoclt.me/post/34044184742/inapppurchasemanager-phonegap-2-1-plugin-arc-project): 
+
 # HOW TO USE:
 
         // request product info
